@@ -25,8 +25,6 @@
     [btn setTitle:@"baby" forState:UIControlStateNormal];
     [self.view addSubview:btn];
     
-    NSLog(@"212313213");
-    
 }
 
 - (void)didReceiveMemoryWarning {
